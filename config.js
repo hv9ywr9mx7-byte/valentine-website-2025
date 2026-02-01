@@ -5,16 +5,16 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Jade",
+    valentineName: "Lea Saba (laean nehna deja mjawazin)",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "maa enno saealtik w ELTE lae basssssss Will You Be My Valentine maaammiiii? ☺️☺️☺️ ",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
+        hearts: ['❤️', '💖', '💝', '💗', '😘'],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },
 
@@ -22,36 +22,36 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            text: "bet hebbe pouuliii?",                                    // First interaction
+            yesBtn: "akiiiiid bhebbooo",                                             // Text for "Yes" button
+            noBtn: "lae bekraho habile",                                               // Text for "No" button
+            secretAnswer: "ana beeshaeo la bouli bmout fi la poulii poulii albee kelloo ana bhebbo bi jnouunn yoebornee ana poulii kello ma atyabo yuuuuuy"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
+            text: "TOB odde bet hebiii la poulliiiiiii☺️?",                          // For the love meter
+            startText: "HALEAD!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "LAKEN BERZAA BESEAL MAMIII BADIK TKOUNE my Valentine on February 14th, 2026 HOTTO LOW NOHNO LONG DISTANCE? 🌹", // The big question!
+            yesBtn: "EEEEEEEEEEEEE!",                                             // Text for "Yes" button
+            noBtn: "lae☹️☹️(pls ma tekebsine)"                                                 // Text for "No" button
         }
     },
 
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "WAAAAAAAAA HALEAD MAMIIII BET HEEBB POULIII HEHHEHEHEHEE",  // Shows when they go past 5000%
+        high: " LEZIM AKTAR😡",              // Shows when they go past 1000%
+        normal: "bos holead☹️☹️☹️☹️"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "lea  ana aktar ensen mahzouz bel dene kella aande yeke hek ya ahla benet w ahdam benet bel aalam w wejik dakhel hal weejj chou bhebbo ktiiir bhebbbikk ya rouh albe eeyoune ente ktir bhebik ",
+        message: "yalla laken bas tkhalse de2ile la nehke vd call w chouf hal wej l helo li aam yedhak yoebooornee anna ",
+        emojis: "💖🤗💝💋❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
