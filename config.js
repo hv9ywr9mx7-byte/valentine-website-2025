@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/drk47dftl/video/upload/v1769928388/Marwan_Khoury_-_Baashak_Rouhik_Feat_Aline_Lahoud_Official_Audio_-_%D9%85%D8%B1%D9%88%D8%A7%D9%86_%D8%AE%D9%88%D8%B1%D9%8A_-_%D8%A8%D8%B9%D8%B4%D9%82_%D8%B1%D9%88%D8%AD%D9%83_fceooe.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
